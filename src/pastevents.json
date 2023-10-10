@@ -1,0 +1,28 @@
+{
+    "pastevents": [
+        {
+            "title":"Inaugration event",
+            "body":"it was good",
+            "image":"001.jpg",
+            "id":1
+        },    
+        {
+            "title":"PBL Exhibition",
+            "body":"it was also good ",
+            "image":"002.jpg",
+            "id":2
+        },      
+        {
+            "title":"Seminar on 'Scope of embedded systems' ",
+            "body":"it was also good ",
+            "image":"003.jpg",
+            "id":3
+        },       
+        {
+            "title":"Workshop on embedded systems",
+            "body":"it was also good ",
+            "image":"004.jpg",
+            "id":4
+        }       
+    ]
+}
